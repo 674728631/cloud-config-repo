@@ -19,7 +19,7 @@ spring:
     password: Lz321@!
   redis:
     host: 106.12.210.195
-    password: @Lz123!@#
+    password: Lz321@!
     port: 6379
     timeout: 3000
   datasource:
