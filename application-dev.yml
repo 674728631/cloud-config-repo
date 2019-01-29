@@ -16,7 +16,7 @@ spring:
     host: 106.12.210.195
     port: 5672
     username: lzhenRoot
-    password: @Lz321
+    password: Lz321@!
   redis:
     host: 106.12.210.195
     password: @Lz123!@#
