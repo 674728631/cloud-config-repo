@@ -14,7 +14,7 @@ zipkin:
     rabbitmq:
       addresses: 106.12.210.195:5672
       username: lzhenRoot
-      password: @Lz321
+      password: Lz321@!
       queue: zipkin
   storage:
     type: mysql
